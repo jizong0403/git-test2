@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("33333");
         System.out.println("master test");
         System.out.println("hom -text");
+        System.out.println("push -text");
     }
 }
